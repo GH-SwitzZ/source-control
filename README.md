@@ -92,10 +92,14 @@ Date:   Sun Jan 27 13:20:15 2019 +0700
 ### Modified Files
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git doSes not just track the creation and deletion of files. It also reports the changes that happen to the files that are already present in its history.
 =======
 _Git does not just track the creation and deletion of files. It also reports the changes that happen to the files that are already present in its history._
 >>>>>>> parent of d15b561... rewrite commit
+=======
+Git does not just track the creation and deletion of files. It also reports the changes that happen to the files that are already present in its history.
+>>>>>>> parent of a7874de... remove unused file
 
 For example the content above is italic by mistake. You can easily fix them by removing `*....*` that is currently surround the content.
 
